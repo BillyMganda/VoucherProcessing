@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaucherProcessing", "VaucherProcessing\VaucherProcessing.csproj", "{99001A0A-EB63-4DCB-9DB5-710F6595C36D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VoucherSetup", "VoucherSetup\VoucherSetup.vdproj", "{ABA14F46-6028-4BB0-BD22-C30E8BB84A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99001A0A-EB63-4DCB-9DB5-710F6595C36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99001A0A-EB63-4DCB-9DB5-710F6595C36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99001A0A-EB63-4DCB-9DB5-710F6595C36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99001A0A-EB63-4DCB-9DB5-710F6595C36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA14F46-6028-4BB0-BD22-C30E8BB84A1A}.Debug|Any CPU.ActiveCfg = Debug
+		{ABA14F46-6028-4BB0-BD22-C30E8BB84A1A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0A4D04-323E-4E88-85DC-C9E97981EB17}
+	EndGlobalSection
+EndGlobal
